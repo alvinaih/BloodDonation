@@ -1,0 +1,13 @@
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\bin\Debug\BloodDonationService.exe.config
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\bin\Debug\BloodDonationService.exe
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\bin\Debug\BloodDonationService.pdb
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\obj\Debug\BloodDonationService.csprojAssemblyReference.cache
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\obj\Debug\BloodDonationService.LoginPage.resources
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\obj\Debug\BloodDonationService.Properties.Resources.resources
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\obj\Debug\BloodDonationService.SignUp.resources
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\obj\Debug\BloodDonationService.csproj.GenerateResource.cache
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\obj\Debug\BloodDonationService.csproj.CoreCompileInputs.cache
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\obj\Debug\BloodDonationService.csproj.CopyComplete
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\obj\Debug\BloodDonationService.exe
+C:\Users\Alvina\source\repos\BloodDonationService\BloodDonationService\obj\Debug\BloodDonationService.pdb
